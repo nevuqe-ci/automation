@@ -1,0 +1,3 @@
+[submodule "build-iso"]
+	path = build-iso
+	url = https://github.com/nevuqe-ci/build-iso
